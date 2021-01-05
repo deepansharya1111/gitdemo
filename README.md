@@ -1,2 +1,2 @@
 # Header 1
-this is just fo testing purposes
+this is just for testing purposes
